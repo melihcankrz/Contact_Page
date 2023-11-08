@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(185, 5, 101);
+}
+.genel{
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+.alt{
+    background-color: #ffff;
+    padding: 25px 30px;
+}
+.baslik{
+    margin-bottom: 35px;
+}
+.input-content input{
+
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 14px 18px;
+    box-sizing: border-box;
+}
+
+.input-content  button{
+
+    width: 100%;
+    height: 50px;
+    background-color: rgb(185, 5, 101);
+    color: #ffff;
+    cursor: pointer;
+    
+
+}
